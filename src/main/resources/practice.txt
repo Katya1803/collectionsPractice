@@ -1,0 +1,19 @@
+Đề bài: Quản lý danh sách nhân viên trong công ty
+Bạn cần viết một chương trình Java để quản lý danh sách nhân viên với các thông tin sau:
+
+Mã nhân viên (id - kiểu String)
+Họ tên (name - kiểu String)
+Ngày sinh (dob - kiểu LocalDate)
+Lương (salary - kiểu double)
+Chương trình phải thực hiện các thao tác như sau:
+
+Hiển thị danh sách nhân viên.
+Sắp xếp nhân viên theo nhiều tiêu chí như:
+Lương (tăng dần/giảm dần)
+Ngày sinh (tuổi tăng dần/giảm dần)
+Tên (theo bảng chữ cái).
+Thống kê và tính toán:
+Lọc ra danh sách nhân viên có lương lớn hơn mức cụ thể.
+Tính tổng lương và lương trung bình của tất cả nhân viên.
+Tìm nhân viên có lương cao nhất/thấp nhất.
+Hiển thị thông tin ngày giờ hiện tại và in báo cáo thống kê ngày giờ tạo báo cáo.
